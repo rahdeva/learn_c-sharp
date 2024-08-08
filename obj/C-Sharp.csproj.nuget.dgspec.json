@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj": {}
+    "D:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj": {}
   },
   "projects": {
-    "d:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj": {
+    "D:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj",
+        "projectUniqueName": "D:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj",
         "projectName": "C-Sharp",
-        "projectPath": "d:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj",
+        "projectPath": "D:\\Code\\Learning\\C-Sharp\\C-Sharp.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "d:\\Code\\Learning\\C-Sharp\\obj\\",
+        "outputPath": "D:\\Code\\Learning\\C-Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
