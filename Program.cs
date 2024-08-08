@@ -30,3 +30,13 @@ Console.WriteLine(randomString.EndsWith("N"));
 string songLyrics = "You say goodbye, and I say hello";
 Console.WriteLine(songLyrics.Contains("goodbye"));
 Console.WriteLine(songLyrics.Contains("greetings"));
+
+// Number
+int a = 100;
+int b = 200;
+long c = a + b;
+long d = (long)a + (long)b;
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
+Console.WriteLine(d);
